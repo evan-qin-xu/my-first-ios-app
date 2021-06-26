@@ -7,14 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EF8C766D266F35A3004A56CB /* WageCalculatorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF8C766C266F35A3004A56CB /* WageCalculatorViewController.swift */; };
+		EF8C766F266F35D4004A56CB /* TriangleValidatorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF8C766E266F35D4004A56CB /* TriangleValidatorViewController.swift */; };
+		EF8C76712671BC39004A56CB /* WageResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF8C76702671BC39004A56CB /* WageResultViewController.swift */; };
+		EF8C76732671BC50004A56CB /* TriangleResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF8C76722671BC50004A56CB /* TriangleResultViewController.swift */; };
+		EF8C7677267248E0004A56CB /* WageCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF8C7676267248E0004A56CB /* WageCalculator.swift */; };
+		EF8C76792672F492004A56CB /* TriangleValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF8C76782672F492004A56CB /* TriangleValidator.swift */; };
 		EF911FB2265F4A0100D2920B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF911FB1265F4A0100D2920B /* AppDelegate.swift */; };
 		EF911FB4265F4A0100D2920B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF911FB3265F4A0100D2920B /* SceneDelegate.swift */; };
 		EF911FB6265F4A0100D2920B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF911FB5265F4A0100D2920B /* ViewController.swift */; };
 		EF911FB9265F4A0100D2920B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF911FB7265F4A0100D2920B /* Main.storyboard */; };
-		EF911FBB265F4A0400D2920B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF911FBA265F4A0400D2920B /* Assets.xcassets */; };
 		EF911FBE265F4A0400D2920B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF911FBC265F4A0400D2920B /* LaunchScreen.storyboard */; };
 		EF911FC9265F4A0400D2920B /* DualFeatTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF911FC8265F4A0400D2920B /* DualFeatTests.swift */; };
 		EF911FD4265F4A0400D2920B /* DualFeatUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF911FD3265F4A0400D2920B /* DualFeatUITests.swift */; };
+		EF911FE62660C5D300D2920B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF911FE52660C5D300D2920B /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,12 +41,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EF8C766C266F35A3004A56CB /* WageCalculatorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WageCalculatorViewController.swift; sourceTree = "<group>"; };
+		EF8C766E266F35D4004A56CB /* TriangleValidatorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriangleValidatorViewController.swift; sourceTree = "<group>"; };
+		EF8C76702671BC39004A56CB /* WageResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = WageResultViewController.swift; path = DualFeat/Views/WageResultViewController.swift; sourceTree = SOURCE_ROOT; };
+		EF8C76722671BC50004A56CB /* TriangleResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriangleResultViewController.swift; sourceTree = "<group>"; };
+		EF8C7676267248E0004A56CB /* WageCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WageCalculator.swift; sourceTree = "<group>"; };
+		EF8C76782672F492004A56CB /* TriangleValidator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriangleValidator.swift; sourceTree = "<group>"; };
 		EF911FAE265F4A0100D2920B /* DualFeat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DualFeat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF911FB1265F4A0100D2920B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EF911FB3265F4A0100D2920B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		EF911FB5265F4A0100D2920B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		EF911FB8265F4A0100D2920B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		EF911FBA265F4A0400D2920B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EF911FBD265F4A0400D2920B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EF911FBF265F4A0400D2920B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EF911FC4265F4A0400D2920B /* DualFeatTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DualFeatTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -49,6 +60,7 @@
 		EF911FCF265F4A0400D2920B /* DualFeatUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DualFeatUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF911FD3265F4A0400D2920B /* DualFeatUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DualFeatUITests.swift; sourceTree = "<group>"; };
 		EF911FD5265F4A0400D2920B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EF911FE52660C5D300D2920B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = DualFeat/Assets.xcassets; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,12 +111,12 @@
 		EF911FB0265F4A0100D2920B /* DualFeat */ = {
 			isa = PBXGroup;
 			children = (
+				EF911FE52660C5D300D2920B /* Assets.xcassets */,
+				EF911FE3265F4A2400D2920B /* Models */,
+				EF911FE1265F4A1500D2920B /* Views */,
+				EF911FE2265F4A1C00D2920B /* Controllers */,
 				EF911FB1265F4A0100D2920B /* AppDelegate.swift */,
 				EF911FB3265F4A0100D2920B /* SceneDelegate.swift */,
-				EF911FB5265F4A0100D2920B /* ViewController.swift */,
-				EF911FB7265F4A0100D2920B /* Main.storyboard */,
-				EF911FBA265F4A0400D2920B /* Assets.xcassets */,
-				EF911FBC265F4A0400D2920B /* LaunchScreen.storyboard */,
 				EF911FBF265F4A0400D2920B /* Info.plist */,
 			);
 			path = DualFeat;
@@ -126,6 +138,36 @@
 				EF911FD5265F4A0400D2920B /* Info.plist */,
 			);
 			path = DualFeatUITests;
+			sourceTree = "<group>";
+		};
+		EF911FE1265F4A1500D2920B /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				EF911FB7265F4A0100D2920B /* Main.storyboard */,
+				EF911FBC265F4A0400D2920B /* LaunchScreen.storyboard */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		EF911FE2265F4A1C00D2920B /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				EF8C76702671BC39004A56CB /* WageResultViewController.swift */,
+				EF8C76722671BC50004A56CB /* TriangleResultViewController.swift */,
+				EF8C766E266F35D4004A56CB /* TriangleValidatorViewController.swift */,
+				EF8C766C266F35A3004A56CB /* WageCalculatorViewController.swift */,
+				EF911FB5265F4A0100D2920B /* ViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		EF911FE3265F4A2400D2920B /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				EF8C7676267248E0004A56CB /* WageCalculator.swift */,
+				EF8C76782672F492004A56CB /* TriangleValidator.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,7 +274,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EF911FBE265F4A0400D2920B /* LaunchScreen.storyboard in Resources */,
-				EF911FBB265F4A0400D2920B /* Assets.xcassets in Resources */,
+				EF911FE62660C5D300D2920B /* Assets.xcassets in Resources */,
 				EF911FB9265F4A0100D2920B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -260,7 +302,13 @@
 			files = (
 				EF911FB6265F4A0100D2920B /* ViewController.swift in Sources */,
 				EF911FB2265F4A0100D2920B /* AppDelegate.swift in Sources */,
+				EF8C766D266F35A3004A56CB /* WageCalculatorViewController.swift in Sources */,
 				EF911FB4265F4A0100D2920B /* SceneDelegate.swift in Sources */,
+				EF8C76792672F492004A56CB /* TriangleValidator.swift in Sources */,
+				EF8C76732671BC50004A56CB /* TriangleResultViewController.swift in Sources */,
+				EF8C7677267248E0004A56CB /* WageCalculator.swift in Sources */,
+				EF8C766F266F35D4004A56CB /* TriangleValidatorViewController.swift in Sources */,
+				EF8C76712671BC39004A56CB /* WageResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

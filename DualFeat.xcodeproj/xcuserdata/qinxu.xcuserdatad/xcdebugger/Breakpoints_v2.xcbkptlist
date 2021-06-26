@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4C580C23-0A17-4349-B3CF-16F1FBBDE4BF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2FB962CC-17CE-4041-8568-2ABEA0D8AE3C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DualFeat/Controllers/TriangleValidatorViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "TriangleValidatorViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2FB962CC-17CE-4041-8568-2ABEA0D8AE3C - 90345bb69aa40e47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DualFeat.TriangleValidatorViewController.trianlgeValidator.getter : DualFeat.TriangleValidator"
+                  moduleName = "DualFeat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qinxu/Documents/Projects/ios%20Mobile%20App/DualFeat/DualFeat/Controllers/TriangleValidatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "2FB962CC-17CE-4041-8568-2ABEA0D8AE3C - 9bf9bcdb20d6967b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DualFeat.TriangleValidatorViewController.trianlgeValidator.setter : DualFeat.TriangleValidator"
+                  moduleName = "DualFeat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qinxu/Documents/Projects/ios%20Mobile%20App/DualFeat/DualFeat/Controllers/TriangleValidatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "174">
+               </Location>
+               <Location
+                  uuid = "2FB962CC-17CE-4041-8568-2ABEA0D8AE3C - f23cbb88df0cfe3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DualFeat.TriangleValidatorViewController.trianlgeValidator.modify : DualFeat.TriangleValidator"
+                  moduleName = "DualFeat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qinxu/Documents/Projects/ios%20Mobile%20App/DualFeat/DualFeat/Controllers/TriangleValidatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "2FB962CC-17CE-4041-8568-2ABEA0D8AE3C - 7ae5e1a748a2057f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DualFeat.TriangleValidatorViewController.trianlgeValidator.modify : DualFeat.TriangleValidator with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "DualFeat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qinxu/Documents/Projects/ios%20Mobile%20App/DualFeat/DualFeat/Controllers/TriangleValidatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "2FB962CC-17CE-4041-8568-2ABEA0D8AE3C - 3205b6997314a2fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DualFeat.TriangleValidatorViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; DualFeat.TriangleValidatorViewController"
+                  moduleName = "DualFeat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qinxu/Documents/Projects/ios%20Mobile%20App/DualFeat/DualFeat/Controllers/TriangleValidatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "369">
+               </Location>
+               <Location
+                  uuid = "2FB962CC-17CE-4041-8568-2ABEA0D8AE3C - ebfdc1556fb8c8c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DualFeat.TriangleValidatorViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DualFeat.TriangleValidatorViewController&gt;"
+                  moduleName = "DualFeat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qinxu/Documents/Projects/ios%20Mobile%20App/DualFeat/DualFeat/Controllers/TriangleValidatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "316">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B32ED8BD-A930-46CC-9B95-89C3D25848C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DualFeat/Controllers/TriangleValidatorViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "validateButtonPressed(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3DFE74AB-E6EE-42ED-B795-3BCCF3A22C70"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DualFeat/Controllers/TriangleValidatorViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "validateButtonPressed(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
